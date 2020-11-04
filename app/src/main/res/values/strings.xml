@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomerMaps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="prompt_user_text">Please enter the address of the appointment location.\nDrag the marker on the map for more accurate results.\nThen click Save to save your location.</string>
+    <string name="save_button_text">Save</string>
+    <string name="enter_locaton_button_text">Enter</string>
+    <string name="address_text">Address</string>
+</resources>
